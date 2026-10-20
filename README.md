@@ -1,6 +1,6 @@
 # Home Assistant OS Migration: Raspberry Pi to NAS Virtual Machine
 
-![Home Assistant Migration](home-assistant-migration.webp)
+![Home Assistant Migration](home-assistant-migration.jpg)
 
 
 **Infrastructure migration | Virtualization | Backup and recovery | Device passthrough**
